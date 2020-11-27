@@ -1,0 +1,51 @@
+name: suggester
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: 
+  cloud_firestore: 
+  flutter_signin_button:
+  firebase_auth: ^0.18.3+1
+  google_sign_in: 
+  flutter_webview_plugin: ^0.3.11
+  flutter_facebook_auth: ^1.0.0
+  rxdart:
+  firebase_performance:
+  cupertino_icons: ^1.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
